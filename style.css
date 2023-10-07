@@ -1,0 +1,123 @@
+.logo-groupe{
+    position: relative;
+    left: 150px;
+
+}
+
+.sygnet.png-logo{
+    align-items: center;
+}
+.title{
+    color: #089784;
+    text-align: center;
+    font-size: larger;
+    }
+
+  
+
+.flexbox{
+    position: static;
+}
+
+.imagedocplanner{
+    margin-left: 500px;
+}
+
+.a1{
+    width: 300px;
+    height: 390px;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: #00b39b;
+
+    
+}
+
+
+.section-parent{
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.a2{
+    width: 300px;
+    height: 390px;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: #4076db;
+}
+
+.a3{
+    width: 300px;
+    height: 390px;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: #000000;
+}
+
+.low{
+    color: #00b39b;
+    margin: 100px
+}
+
+
+.petit{
+    margin-left: 200px;
+    justify-content: center;
+}
+   
+.section-grand{
+    background-color: #c4fff9;
+}
+.grand1{
+    color: #00b39b;
+}
+
+.grand2{
+    width: 200px;
+    height: 400px;
+    display: flex;
+flex-flow: column;
+flex-wrap: wrap
+;
+
+    
+}
+.grand{
+    width: 300px;
+    height: 400px;
+    font-size: 40px;
+    text-align: center;
+    margin: 10px;
+
+}
+.g1{
+    background-color: aliceblue;
+}
+
+.log{
+    color: #00b39b;
+    text-align: center;
+}
+.log1{
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    font-size: 10px;
+    margin: 40px;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.question{
+    text-align: center;
+}
+.mome{
+    display: flex;
+    ;
+}
